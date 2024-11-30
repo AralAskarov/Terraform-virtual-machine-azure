@@ -1,0 +1,1 @@
+# Terraform-virtual-machine-azure
